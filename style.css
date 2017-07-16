@@ -1,0 +1,25 @@
+body {
+	background-color: #212121; 
+	padding-top: 50px;
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	color: #880e4f;
+	-webkit-touch-callout: none; 
+    -webkit-user-select: none; 
+     -khtml-user-select: none; 
+       -moz-user-select: none; 
+        -ms-user-select: none; 
+            user-select: none;                                
+}
+
+.canvas {
+	border: 1px solid #fff;
+}
+
+.maintext {
+	display: inline-block;
+	color: #fafafa;
+	margin-left: 40px;			
+	margin: 0 auto;
+	font-size: 40pt;
+} 		
